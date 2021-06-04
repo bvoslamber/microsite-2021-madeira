@@ -1,0 +1,166 @@
+- id: one
+  title: Einzigartige Natur auf Madeira
+  count: "1"
+  nav-title: Natur
+  description: "Madeira bezaubert mit herrlich mediterranem Klima und einer facettenreichen Flora und Fauna, die so in Europa einzigartig ist. Dies wird begünstigt durch die Nähe zum Golfstrom, der das türkisblaue Meerwasser rund um die Insel auf angenehme Temperaturen erwärmt. Der vulkanische Ursprung der Insel sorgt zusätzlich für eine einzigartige Kulisse, die es auf geführten Wandertouren zu erkunden gilt."
+  link: "#section-link"
+
+  pois:
+    items:
+
+      - id: one-first-poi
+        img: bg-img1
+        title: Typische Landschaftsbilder
+        description: "Madeira trakteert haar bezoekers op weelderige natuur en indrukwekkende landschappen. Een van de belangrijkste attracties van het eiland is Laurissilva. Dit laurierbos met dik mos en grote, oude bomen staat op de werelderfgoedlijst van UNESCO. Een ander hoogtepunt zijn de populaire wandelingen langs de zogenaamde levada's. Deze irrigatiekanalen zijn honderden jaren geleden aangelegd om grote hoeveelheden water van het regenachtige noorden van Madeira naar het zuiden te transporteren. Wandel langs de kanaaltjes en ontdek onderweg de adembenemende natuur."
+        link: "#poi-link"
+
+      - id: one-second-poi
+        img: bg-img2
+        title: Festival der Natur
+        description: "Das Festival der Natur auf Madeira ist ein echtes Erlebnis für große und kleine Abenteuerlustige. Bei diesem Fest geht es darum, die traumhafte Natur zu entdecken und sich auf sportliche Herausforderungen einzulassen. Auf der gesamten Insel, zu Land, im Gebirge und im Wasser können Sie an den kostenlosen Aktivitäten teilnehmen. Von Mountainbike-Touren bis Surfen oder Canyoning ist das sportliche Angebot breit gefächert, sodass für jeden etwas dabei ist. Sie müssen nur noch Ihre Wahl treffen und können mit anderen Naturbegeisterten ein ganz besonderes Erlebnis teilen."
+        link: "#poi-link"
+
+      - id: one-third-poi
+        img: bg-img3
+        title: Action beim Canyoning
+        description: "Wenn Sie unberührte, ursprüngliche Natur auf Madeira erleben wollen und trotzdem nicht auf den Adrenalinkick verzichten möchten, wagen Sie sich auf eine Canyoning-Tour. In Gruppen erkunden Sie den Wasserlauf eines Baches oder Flusses. Hierbei müssen Sie die teilweise tiefen Wasserstellen oder Wasserfälle durch Klettern, Springen, spezielle Paddelarten oder sogar Schwimmen meistern und genießen dabei spektakuläre Ausblicke."
+        link: "#poi-link"
+
+      - id: one-fourth-poi
+        img: bg-img4
+        title: Über Madeira gleiten
+        description: "Sie wollten schon immer mal das beeindruckende Bergmassiv, die raue Küste und die unglaubliche Pflanzenpracht der Insel von oben sehen? Aufgrund der morphologischen Eigenschaften Madeiras finden Sie hier ideale Bedingungen zum Paragliding. Wagen Sie sich mit dem Gleitschirm in luftige Höhen und genießen Sie die einzigartige Aussicht. Auch Anfänger müssen sich nicht scheuen, sondern können diese einmalige Erfahrung bei einem Tandemflug machen."
+        link: "#poi-link"
+
+      - id: one-fifth-poi
+        img: bg-img5
+        title: Querfeldein
+        description: "Die gebirgige Beschaffenheit der Landschaft Madeiras macht die Insel zu einem beliebten Spot für Trailläufer. Drei verschiedene Wettkämpfe dieser Langstreckenlaufart finden jährlich hier statt und führen die Sportler quer durch die einzigartige Natur auf die höchsten Pfade, durch Flüsse und Wälder. Unter den Teilnehmern finden sich auch bekannte Namen aus dem nationalen und internationalen Trial-Sport."
+        link: "#poi-link"
+
+      - id: one-sixth-poi
+        img: bg-img6
+        title: Madeira mit dem Bike
+        description: "Madeira ist ein wahrhaftes Wanderparadies, doch auch auf zwei Rädern lässt sich die Flora und Fauna der Atlantikinsel wunderbar erkunden. Mit dem Mountainbike fahren Sie auf unbefestigten Strecken inmitten des Bergmassivs, genießen einzigartige Ausblicke auf die Felsen und Täler und fühlen sich voller Energie. Atmen Sie die klare Luft der Blumeninsel ein und erleben Sie unvergessliche Ausflüge, an die Sie noch lange zurückdenken werden."
+        link: "#poi-link"
+
+
+
+
+
+################################################################################
+
+
+
+- id: two
+  title: Die Weiten des Meeres
+  nav-title: Meer
+  count: "2"
+  description: "Durch seine Insellage mitten im Atlantik ist der Ausblick auf den Ozean um Madeira schier unendlich. Mit seiner klaren, türkisblauen Farbe schimmert das Meer geheimnisvoll unter der Sonne und macht neugierig auf die vielen Geheimnisse, die unterhalb der Wasseroberfläche warten. Vor der Küste können Sie auf Bootsfahrt gehen und so die Insel aus einer völlig neuen Perspektive betrachten. Oder Sie wagen sich beim Tauchgang in die faszinierenden Tiefen zu einem der besten Tauchplätze Europas."
+  link: "#section-link"
+
+  pois:
+    items:
+
+      - id: two-first-poi
+        img: bg-img1
+        title: Natürliche Meerwasser-Pools
+        description: "Die natürlichen Meeresschwimmbecken von Porto Moniz und Seixal sind ein besonderes Highlight. Diese von Lavagestein umrahmten Salzwasser-Schwimmbecken werden auf natürliche Weise vom Meer gespeist. Sie befinden sich an der Nordküste Madeiras und bieten eine erstklassige Sicht über den Atlantik und die sattgrünen Landschaften der Blumeninsel. Entspannen Sie bei einem Bad in diesen einzigartigen Schwimmbecken und fühlen Sie sich eins mit der Natur."
+        link: "#poi-link"
+
+      - id: two-second-poi
+        img: bg-img2
+        title: Aktivurlaub für Wassersportler
+        description: "Ein gemäßigtes Klima und eine Wasser&shy;temperatur von 17 - 24°C laden ganzjährig zu zahlreichen Aktivitäten im und auf dem Atlantik vor der Küste Madeiras ein. Im Norden finden Surfer ideale Bedingungen und womöglich die perfekte Welle. An der ruhigeren Südküste kommen dagegen Windsurfer und Stand-up-Paddler auf ihre Kosten. Ebenfalls ein beliebter Sport ist das Kanufahren – auf eigene Faust oder bei geführten Touren. Beim Schnorcheln oder Tauchen vor der Küste entdecken Sie eine beeindruckende Unterwasserwelt und sogar ein von Korallen bewachsenes Schiffswrack."
+        link: "#poi-link"
+
+      - id: two-third-poi
+        img: bg-img3
+        title: Elegante Meeresriesen
+        description: "Dank einer Meerestiefe von mehr als 3.000 Metern beheimaten die Küstengewässer vor Madeira eine vielfältige Fauna. Zahlreiche Fischarten, Schildkröten und 28 verschiedene Wal- und Delfinarten tummeln sich in den Gewässern vor der Insel. Das ganze Jahr über können Sie hier zu einer Beobachtungstour aufbrechen, um einige dieser eleganten Meeressäuger anzutreffen. Vor Madeira sind unter anderem Fleckendelfine, Streifendelfine, Pottwale und Pilotwale heimisch."
+        link: "#poi-link"
+
+
+################################################################################
+
+
+
+- id: three
+  title: Die bunten Traditionen Madeiras
+  nav-title: Lifestyle
+  count: "3"
+  description: "Tauchen Sie auf den Madeira-Inseln ein in eine warmherzige, weltoffene Kultur. Die Menschen hier versprühen wahre Lebensfreude und möchten diese auch gern mit ihren Besuchern teilen. Das ganze Jahr über finden Festivals und Veranstaltungen statt, die die reiche Kultur der Madeirer feiern. Erleben Sie die Hauptstadt Funchal mit ihren Sehenswürdigkeiten und dem bunten Treiben in den Straßen, kosten Sie von der traditionellen Küche und genießen Sie mit einem Gläschen Madeira-Wein das süße Leben."
+  link: "#section-link"
+
+  pois:
+    items:
+
+      - id: three-first-poi
+        img: bg-img1
+        title: Genuss für die Seele
+        description: "In der heimischen Küche Madeiras werden Sie die herzliche Seele und die Gastfreundschaft der Archipelbewohner herausschmecken. Dank der Nähe zum Meer erwarten Sie auf den Inseln erstklassige Fischgerichte und Meeresfrüchte, wie gegrillte Napfschnecken, Thunfischsteaks und madeirensische Schwertfischfilets. Probieren Sie den traditionellen “Espatada“, ein Rindfleischspieß aus Lorbeerholz mit frittiertem Mais und dazu das typische “Bolodo-Caco“, ein Brot mit Knoblauchbutter. Unverzichtbar ist auch der sündhaft köstliche, hausgemachte Honigkuchen."
+        link: "#poi-link"
+
+      - id: three-second-poi
+        img: bg-img2
+        title: "Wein & Kunsthandwerk"
+        description: "Begeben Sie sich auf Madeira auf die Spuren der traditionellen Handwerkskünste. Madeira-Stickerei ist eine Jahrhunderte alte Form des Kunsthandwerks, die sich durch ihre hohe Qualität und beeindruckenden Details auszeichnet. Stoffe wie Leinen oder Seide werden mit modernen und traditionellen Mustern bestickt. Auch die Tradition des Madeira-Weins geht bereits über 500 Jahre zurück. Der Likörwein wird auf den Berghängen der Insel angebaut und zeichnet sich durch sein besonderes Aroma und seinen einzigartigen Charakter aus, für den er auf der ganzen Welt beliebt ist."
+        link: "#poi-link"
+
+      - id: three-third-poi
+        img: bg-img3
+        title: Bummel durch Funchal
+        description: "Funchal, die Hauptstadt der Inselgruppe, liegt in einer Bucht an der Südküste der Insel Madeira. Ihren Namen verdankt die Stadt dem Fenchel, der zu Beginn der Besiedlung als wildes Gewächs überall auf der Insel zu finden war. Funchal ist das größte touristische, gewerbliche und kulturelle Zentrum des gesamten Archipels. Hier erwartet Sie ein vielseitiges Angebot an Freizeitaktivitäten, von Museen und Monumenten, über Ausflüge zu den fantastischen Gärten, bis hin zu einem Spaziergang am Yachthafen. Außerdem finden Sie in Funchal ein buntes Nachtleben in den zahlreichen Restaurants, Bars und Clubs."
+        link: "#poi-link"
+
+      - id: three-fourth-poi
+        img: bg-img4
+        title: Funchals Bauernmarkt
+        description: "Der Bauernmarkt Mercado dos Lavradores ist eines der Markenzeichen von Funchal und befindet sich inmitten des historischen Zentrums. Das Marktgebäude wurde in einer stilistischen Mischung aus Art déco und Modernismus entworfen und ist einen Besuch wert. Lassen Sie sich von den Aromen der Inseln verzaubern, kosten Sie von den exotischen Früchten und bestaunen Sie das reiche Angebot an wunderschönen Blumen, Fleisch, Fisch, Gemüse und regionalen Gewürzen."
+        link: "#poi-link"
+
+      - id: three-fifth-poi
+        img: bg-img5
+        title: Wilde Fahrt im Korb
+        description: "Wenn Sie bei einem Besuch in Madeiras Hauptstadt ein ganz besonderes Erlebnis wagen möchten, dann begeben Sie sich auf eine Fahrt mit dem Korbschlitten. Die 'Carros de Cesto' werden aus Holz und Weidenruten in Handarbeit gefertigt und von den sogenannten 'Carreiros', zwei in Trachten gekleideten Männern, gesteuert. Im Ortsteil Monte besteigen Sie das traditionelle Gefährt und begeben sich einen Abhang herunter auf eine wilde Fahrt. Ein so einzigartiges Erlebnis dürfen Sie auf keinen Fall verpassen."
+        link: "#poi-link"
+
+      - id: three-sixth-poi
+        img: bg-img6
+        title: Das Leben feiern
+        description: "Besuchen Sie den Karneval Anfang des Jahres mit knallbunten Kostümen und weltbekannten Paraden. Das Blumenfest feiert den Frühling und die üppige Blütezeit. Die Straßen werden mit Blumen geschmückt und überall finden Konzerte statt. Mit dem Festival do Atlântico wird auf Madeira mit pyromusikalischen Shows der Sommer eingeläutet. Zur Weinernte im Spätherbst findet mit allerlei Festivitäten und Aktionen das Weinfest statt. Auch zur Weihnachts- und Silvesterzeit verleihen die Madeirer ihrer Insel einen besonderen Glanz und das Feuerwerk gehört zu den größten der Welt."
+        link: "#poi-link"
+
+
+
+################################################################################
+
+
+
+- id: four
+  title: Strandparadies Porto&nbsp;Santo
+  nav-title: "Porto Santo"
+  count: "4"
+  description: "Porto Santo ist die zweitgrößte der zu Madeira gehörenden Inseln und befindet sich etwa 50 km nordöstlich vor der Hauptinsel. Dieses paradiesische Eiland ist vor allem für seinen wunderschönen, langen Sandstrand bekannt. Die schlichte Schönheit der Landschaft Porto Santos lädt aber auch zu Wanderungen oder Radtouren ein."
+  link: "#section-link"
+
+  pois:
+    items:
+
+      - id: four-first-poi
+        img: bg-img1
+        title: Der goldene Strand
+        description: "Umspült vom türkisblauen, kristallklaren Meer finden Sie auf Porto Santo ein kleines Paradies für Sonnenanbeter. Der etwa 9 km lange, goldene Sandstrand nimmt fast die gesamte Südküste der kleinen Insel ein und wurde bereits zum besten Dünenstrand Portugals gewählt. Hier können Sie das ganze Jahr über schönes Wetter, die Sonne sowie das Meeresrauschen genießen und einfach mal die Seele baumeln lassen."
+        link: "#poi-link"
+
+      - id: four-second-poi
+        img: bg-img2
+        title: Bunte Unterwasserwelt
+        description: "Porto Santos Gewässer sind wegen ihrer Sauberkeit, der angenehmen Temperatur und des klaren Wassers beliebt bei Tauchern. Hier können Sie eine hervorragende Sicht von bis zu 40 m Tiefe erleben. Zu den beliebtesten Spots gehören die gesunkenen Schiffe Madeirense und Corveta General Pereira d’Eça, die abgesenkt wurden, um künstliche Riffe zu schaffen. Hier tummelt sich eine artenreiche Meeresfauna mit dunklen Zackenbarschen, Salemas, Königsfischen oder Amberjacks."
+        link: "#poi-link"
+
+      - id: four-third-poi
+        img: bg-img3
+        title: "Heilsame Natur"
+        description: "Neben seinem schönen Strand ist Porto Santo aber auch als Wellness- und Erholungsort bekannt. Der karbonathaltige Sand hat erwiesene, therapeutische Eigenschaften. So soll sich ein Aufenthalt hier positiv auf orthopädische und rheumatische Probleme auswirken. Auch das Meerwasser von Porto Santo wird wegen seines hohen Anteils an Strontium, Chrom und Jod zu Therapiezwecken zum Beispiel in der Thalassotherapie verwendet. Sogar das Trinkwasser dieser Insel ist reich an gesundheitsfördernden Bestandteilen."
+        link: "#poi-link"
