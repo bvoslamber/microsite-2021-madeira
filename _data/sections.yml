@@ -4,6 +4,9 @@
   nav-title: Natur
   description: "Madeira bezaubert mit herrlich mediterranem Klima und einer facettenreichen Flora und Fauna, die so in Europa einzigartig ist. Dies wird begünstigt durch die Nähe zum Golfstrom, der das türkisblaue Meerwasser rund um die Insel auf angenehme Temperaturen erwärmt. Der vulkanische Ursprung der Insel sorgt zusätzlich für eine einzigartige Kulisse, die es auf geführten Wandertouren zu erkunden gilt."
   link: "#section-link"
+  special-tip-title: "Vom Pico Arieiro zum Pico&nbsp;Ruivo"
+  special-tip-content: "Über den Wolken stehen Sie auf den Gipfeln des Zentralgebirges von Madeira. Der höchste Punkt der Insel ist Pico Ruivo mit 1862 Metern, gefolgt von Pico das Torres (1851) und Pico do Arieiro (1818) und die Wanderung vom Pico Arieiro zum Pico Ruivo die Königstour. Unterwegs auf der 13 km langen Strecke (ca. 7 h lang) wird der vulkanische Ursprung der Insel sehr deutlich; der Pfad ist teilweise schmal und schlängelt sich abenteuerlich um die Gipfel herum. Bei der richtigen Planung erleben Sie den Sonnenaufgang am Pico Ruivo - einmalig."
+
 
   pois:
     items:
@@ -58,6 +61,9 @@
   count: "2"
   description: "Durch seine Insellage mitten im Atlantik ist der Ausblick auf den Ozean um Madeira schier unendlich. Mit seiner klaren, türkisblauen Farbe schimmert das Meer geheimnisvoll unter der Sonne und macht neugierig auf die vielen Geheimnisse, die unterhalb der Wasseroberfläche warten. Vor der Küste können Sie auf Bootsfahrt gehen und so die Insel aus einer völlig neuen Perspektive betrachten. Oder Sie wagen sich beim Tauchgang in die faszinierenden Tiefen zu einem der besten Tauchplätze Europas."
   link: "#section-link"
+  special-tip-title: "Coasteering im wilden&nbsp;Osten"
+  special-tip-content: "Schwimmen kann jeder, Canyoning ist auch bekannt, aber haben Sie schon einmal Coasteering unternommen? Bei der neueren Sportart geht es darum, die schroffen Klippen entlang der Küste zu erklettern und sich von dort ins Wasser fallen zu lassen. Am besten geht das auf Madeira im wilden Osten, wo der Vorsprung der Ponta de São Lourenço ins Meer ragt. Damit alle Sicherheitsstandards eingehalten werden und Sie sich nicht verletzen, wird Coasteering in Gruppen angeboten, geleitet von erfahrenen Kräften. Und - Sprung!"
+
 
   pois:
     items:
@@ -91,6 +97,9 @@
   count: "3"
   description: "Tauchen Sie auf den Madeira-Inseln ein in eine warmherzige, weltoffene Kultur. Die Menschen hier versprühen wahre Lebensfreude und möchten diese auch gern mit ihren Besuchern teilen. Das ganze Jahr über finden Festivals und Veranstaltungen statt, die die reiche Kultur der Madeirer feiern. Erleben Sie die Hauptstadt Funchal mit ihren Sehenswürdigkeiten und dem bunten Treiben in den Straßen, kosten Sie von der traditionellen Küche und genießen Sie mit einem Gläschen Madeira-Wein das süße Leben."
   link: "#section-link"
+  special-tip-title: "Mit der Seilbahn in die&nbsp;Tropen"
+  special-tip-content: "Zugegeben, so geheim sind die Seilbahnen auf Madeira nicht, liegt die berühmteste davon doch direkt im Osten von Funchal. In Küstennähe besteigen Sie für einen Obolus die moderne Kabine und lassen sich ganz langsam nach oben, Richtung Stadtteil Monte treiben. Unterwegs bekommen Sie einen sehr guten Eindruck von der Stadt und Umgebung, sehen auf private Gärten und Landstraßen herab, sehen bewölkte Gipfel und sonnenklare Küsten und bekommen einen Eindruck von Madeiras Mikroklimata. Angekommen in Monte steht die Gartenanlage von Monte Palace für einen Besuch bereit."
+
 
   pois:
     items:
@@ -143,6 +152,9 @@
   count: "4"
   description: "Porto Santo ist die zweitgrößte der zu Madeira gehörenden Inseln und befindet sich etwa 50 km nordöstlich vor der Hauptinsel. Dieses paradiesische Eiland ist vor allem für seinen wunderschönen, langen Sandstrand bekannt. Die schlichte Schönheit der Landschaft Porto Santos lädt aber auch zu Wanderungen oder Radtouren ein."
   link: "#section-link"
+  special-tip-title: "Thalassotherapie und Psammotherapie"
+  special-tip-content: "Porto Santo ist eine herausragende Wellness-Destination. In den 1970er Jahren wurden die gesundheitsfördernden Eigenschaften des Sandes und Meerwassers entdeckt, die nun beide für Therapien eingesetzt werden. Im Hotel Vila Baleira können Sie neben Thalassotherapie mit Meerwasser auch Akupunktur, Algentherapie und Inhalationen mit Meeres-Aerosolen betreiben. Im Hotel Porto Santo können Sie Psammotherapie kennenlernen. Dafür steigen Sie ins Sandbad und ruhen bis zu einer Stunde im 40°C heißen Sand - zweimal täglich angewendet soll der Sand bei Gelenkbeschwerden helfen.  "
+
 
   pois:
     items:

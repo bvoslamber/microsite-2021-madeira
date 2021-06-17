@@ -14,7 +14,7 @@
     <div class="vpad--xxl bg--grey-lightest ">
         <div class="container">
           <div class="width width--lg text--center">
-      <div class="p p--xl">{{page.intro}}:</div>
+      <div class="p p--xl">{{page.intro}}</div>
       <div class="space--xxxl"></div>
 
         </div>
@@ -56,7 +56,17 @@
                       <div class="space--xxl"></div>
                   </div>
                 </div>
+                <div id="{{section.id}}" class="harvey {% cycle '', ' harvey--swap' %} text--white bg--yellow">
+        <div class="harvey__img" style="background-image: url('{{site.img}}/pages/{{section.id}}/special.jpg');"></div>
+          <div class="harvey__text boxpad--lg text text--xxl text--normal">
+            <div class="space--xs"></div>
+            <h4 class="h h--xxxs text--upper text--left text--normal">Unser Tipp: </h4>
+            <div class="space--sm"></div>
+            <h2 class="h h--md text--upper text--left text--bold"> {{section.special-tip-title}}</h2>
 
+            <p>{{section.special-tip-content}}</p><div class="space--md"></div>
+        </div>
+      </div>
 
           {% endfor %}
           <!-- Anreise section -->
@@ -65,7 +75,7 @@
 
             {% include page/condor.html %}
       <!-- Offers section -->
-      <div id="offers" class="js-nav-section  bg--grey-lightest">
+      <div id="offers" class="js-nav-section bg--grey-lightest">
             <div class="space--xxxl"></div>
             <div class="h h--xl text--center">Angebote</div>
 
